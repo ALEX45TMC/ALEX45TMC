@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,discord,c,html" />
+    <img src="https://skillicons.dev/icons?i=blender,CPP,css,github,Gmail,htmx,JS,Kali,Linux,arduino,discord,ps,pr,py,raspberrypi,unity,unreal,vscode, windows,c,html" />
   </a>
 </p>
