@@ -21,3 +21,14 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=ps,pr,py,raspberrypi,unity,unreal,vscode,windows,robloxstudio,c,html" />
   </a>
 </p>
+   <summary><h2 style="display: inline-block">MY GITHUB STATS 📈</h2></summary>
+  </ul>
+</div>
+
+
+<p align="center">
+<a href="https://github.com/alex45tmc">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luc4st1574&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luc4st1574&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
