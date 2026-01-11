@@ -8,3 +8,16 @@
 <!---
 ALEX45TMC/ALEX45TMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,cpp,css,github,gmail,htmx,js,kali,linux,arduino,discord" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,pr,py,raspberrypi,unity,unreal,vscode,windows,robloxstudio,c,html" />
+  </a>
+</p>
+   
