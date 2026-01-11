@@ -4,13 +4,12 @@
 - 💞️ I’m looking to collaborate on proyectos como paginas wep y inteligencia artificial
 - 📫 How to reach me puedes contactar al correo 
 - 😄 Pronouns:alex
-- ⚡ Fun fact:soy muy apacionado a proyectos que me gusten
-<!---
-ALEX45TMC/ALEX45TMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes
+- ⚡ Fun factsoy muy apacionado a proyectos que me gusten
+ <p align="center">
+           MANEJO DE LENGUAGES
+ </p>
 
-
-<p align="center">
+ <p aling="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,cpp,css,github,gmail,htmx,js,kali,linux,arduino,discord" />
   </a>
