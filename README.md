@@ -1,6 +1,8 @@
 <div align="center">
 
 <!-- ════════════ BANNER ════════════ -->
+<img src="assets/banner.png" alt="Banner cyberpunk — ciudad de neón" width="100%" />
+<br/><br/>
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+ALEX45TMC+%E2%9A%A1;Desarrollador+en+entrenamiento+%F0%9F%8E%AE;Electr%C3%B3nica+%2B+C%C3%B3digo+%3D+%E2%9C%A8;Modo+Arcade%3A+ON+%F0%9F%95%B9%EF%B8%8F" alt="Typing SVG" />
 
 [![Visitas](https://komarev.com/ghpvc/?username=ALEX45TMC&label=Visitas%20al%20perfil&color=00f0ff&style=flat)](https://github.com/ALEX45TMC)
@@ -13,6 +15,8 @@
 ---
 
 ## 🧬 Sobre mí
+
+<img align="right" src="assets/side.png" alt="Retrato anime neón" width="250" />
 
 ```yaml
 usuario: ALEX45TMC
